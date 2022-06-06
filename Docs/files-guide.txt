@@ -1,0 +1,11 @@
+[1] mal-layout		| Club layout (see layout folder for spliced images)
+[2] mal-picture		| MAL club display picture
+[3] gg-banner		| Discord server banner
+[4] gg-invite		| Discord server invite background
+[5] gg-icon		| Discord server icon
+[6] honor-bg		| Honor card background
+[7] mal-mbanner		| MAL app club banner
+[8] favicon		| Web favicon
+
+Note for spliced layout files:
+Files are named based on their positions given in SPLICEMAP.png.
